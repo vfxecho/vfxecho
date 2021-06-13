@@ -6,7 +6,7 @@ I made this project just for creativity. I love to use reverse engineering softw
 
 Skills: JS / C# / NODE / Reverse Engineer
 
-- 🔭 I’m currently working on D 
+- 🔭 Yeni projelerle yakında görüşmek üzere!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/vfxecho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/madxecho//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCjw2Eq4rzTPVEwGUGu1ZmIA)  
